@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    padding: 7rem;
+    margin-top: 5rem;
+    background: red;
+}
+
+
+.photo{
+    background-image: url("../images/1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+    overflow: hidden;
+}
+
+.btn-light {
+    border-radius: 15px;
+    width: 150px;
+    height: 100px;
+    padding: auto;
+    width: 200px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #dfdcdc;
+    border-radius: 50px;
+}
+
+.btn-light:hover{
+    background: #ece9e9;
+    cursor: pointer;
+}
+
+.icons{
+    display: flex;
+    justify-content: center;
+    bottom: 0;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.icons>i{
+    margin-right: 1vw;
+}
+
+.icons>i:hover{
+    cursor: pointer;
+}
+
+.time{
+    color: green;
+    font-size: 30px;
+    text-align: center;
+}
+
+span{
+    font-size: 3vw;
+    margin: 0;
+    padding:0;
+    color: white;
+}

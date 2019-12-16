@@ -1,0 +1,22 @@
+{
+  "name": "coming-soon-msamer0",
+  "version": "1.0.0",
+  "description": "## Aufgabe:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbw9dus/coming-soon-MSamer0.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fbw9dus/coming-soon-MSamer0/issues"
+  },
+  "homepage": "https://github.com/fbw9dus/coming-soon-MSamer0#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
